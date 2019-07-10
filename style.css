@@ -1,0 +1,12 @@
+
+.card {
+    margin: 10px 10px 10px 10px;
+    /*padding-block-start: 20px;
+    padding-block-end: 20px;*/
+}
+
+.footer_icons {
+    height: 50px;
+    width:auto;
+    margin: 10px 10px 10px 10px
+}
